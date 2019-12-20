@@ -1,6 +1,6 @@
 {
   "release": {
-    "name": "Production release file",
+    "name": "Production Release File",
     "version": "1.0.0",
     "infrastructure_version": "1.0.0",
     "automation_version": "master",
