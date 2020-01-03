@@ -6,15 +6,15 @@
     "automation_version": "master",
     "services": {
       "intapi": {
-        "version": "1.0.API_13e7467",
+        "version": "1.API.0",
         "configuration": "1.0.0"
       },
       "intweb": {
-        "version": "1.0.WEB_8a4f6b0",
+        "version": "1.WEB.0",
         "configuration": "1.0.0"
       },
       "intdb": {
-        "version": "1.0.DB",
+        "version": "1.DB.0",
         "configuration": "1.0.0"
       }
     }
