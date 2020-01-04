@@ -6,7 +6,7 @@
     "automation_version": "master",
     "services": {
       "intapi": {
-        "version": "1.API.2_ecead86",
+        "version": "1.API.2_ecead86_cfe3529",
         "configuration": "1.0.0"
       },
       "intweb": {
